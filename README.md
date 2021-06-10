@@ -19,7 +19,7 @@ Both
 Malcolm is a threat investigation and detection tool. Development 
 appears to be outsourced to Battelle Energy Alliance, LLC
 
-# Nginx can authenticate users with either local TLS-encrypted HTTP basic authentication or using a remote Lightweight Directory Access Protocol (LDAP) authentication server.
+### Nginx can authenticate users with either local TLS-encrypted HTTP basic authentication or using a remote Lightweight Directory Access Protocol (LDAP) authentication server.
 Authenticate against Lightweight Directory Access Protocol (LDAP) server? (y/N): n
 
 Create daily snapshots (backups) of Elasticsearch indices? (y/N): n
